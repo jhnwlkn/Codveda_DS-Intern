@@ -43,7 +43,7 @@ This dataset is perfectly balanced (3 classes × 50 samples each) and contains n
 
 # ✅ Task 1 — Logistic Regression Classification
 
-**Notebook:** `1_iris_classification_logreg.ipynb`
+**Notebook:** `Task 1 Iris Classification Logreg.ipynb`
 
 ### 🔍 Objective
 
@@ -74,7 +74,7 @@ Build a **multiclass classification model** to predict iris flower species using
 
 # ✅ Task 2 — K-Means Clustering
 
-**Notebook:** `2_iris_clustering_kmeans.ipynb`
+**Notebook:** `Task 2 Iris Clustering Task K-Means.ipynb`
 
 ### 🔍 Objective
 
@@ -101,7 +101,7 @@ Group iris samples **without labels** using K-Means clustering.
 
 # ✅ Task 3 — Neural Network Classification (Keras)
 
-**Notebook:** `3_iris_neural_network_keras.ipynb`
+**Notebook:** `Task 3 Iris Neural Network Classification.ipynb`
 
 ### 🔍 Objective
 
