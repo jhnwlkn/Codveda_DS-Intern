@@ -56,8 +56,8 @@ Build a **multiclass classification model** to predict iris flower species using
 3. Preprocessing
 
    * Label encoding
-   * Feature scaling (StandardScaler)
    * Train-test split
+     
 4. Model Training (Logistic Regression)
 5. Evaluation
 
@@ -83,11 +83,12 @@ Group iris samples **without labels** using K-Means clustering.
 ### 📌 Workflow
 
 1. EDA (pairplot, heatmap)
-2. Preprocessing (scaling)
+2. Preprocessing
 3. Optimal K determination
 
    * Elbow Method
    * Silhouette Score
+     
 4. Final Clustering (K=3)
 5. PCA visualization
 6. Cluster vs Species comparison
@@ -113,7 +114,6 @@ Build a **simple feed-forward neural network** to classify iris species.
 2. Preprocessing
 
    * Label Encoding → One-hot encoding
-   * Scaling
    * Train-test split
 3. Model Architecture
 
@@ -145,7 +145,7 @@ You can open each notebook in **Google Colab**:
 
 # 📌 Conclusion
 
-Using the Iris dataset, we successfully completed **three Data Science tasks** covering:
+Using the Iris dataset, i am successfully completed **three Data Science tasks** covering:
 
 * Classical Machine Learning
 * Unsupervised Learning
@@ -158,8 +158,6 @@ These notebooks demonstrate skills in:
 * Modeling
 * Evaluation
 * Visualization
-
-They are ready for Codveda submission and suitable for GitHub portfolio use.
 
 ---
 
